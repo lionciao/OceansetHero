@@ -1,0 +1,4 @@
+from os import environ
+
+SERVER_PORT =
+SQLALCHEMY_DATABASE_URI =

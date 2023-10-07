@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+fiona = "*"
+geopandas = "*"
+flask-sqlalchemy = "*"
+psycopg2-binary = "*"
+geoalchemy2 = "*"
+geojson = "*"
+requests = "*"
+gunicorn = {extras = ["gevent"], version = "*"}
+openai = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

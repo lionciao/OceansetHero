@@ -1,0 +1,3 @@
+0 0 * * * python /app/etl/crawler.py
+0 0 * * * python /app/etl/critical_habitat.py
+0 0 * * * python /app/etl/water_quality_crawler.py

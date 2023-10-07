@@ -1,0 +1,7 @@
+settings.py
+__pycache__
+.env
+.vscode
+nginx/cert/*
+!nginx/cert/.keepme
+.DS_Store

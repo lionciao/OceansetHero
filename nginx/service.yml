@@ -1,0 +1,18 @@
+services:
+  nginx:
+    image: nginx:1.17.9
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - '../../../media_public:/var/www/app/media_public:cached'
+      - '../../../media/build:/var/www/app/media:cached'
+      - type: bind
+        source: ./conf.d
+        target: /etc/nginx/conf.d
+      - type: bind
+        source: ./html
+        target: /var/www/html
+      - type: bind
+        source: ./cert
+        target: /etc/nginx/ssl
