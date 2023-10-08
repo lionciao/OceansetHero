@@ -5,6 +5,10 @@
   :triangular_flag_on_post: [Demo Video Link](https://youtu.be/yT8Zy88Egk4?si=mh8rDTL7MBkWGyrd)
   :triangular_flag_on_post: [Product Spec](https://www.figma.com/file/X7KTAOd3E6hhPamxy30SGf/hackthon?type=design&node-id=6%3A946&mode=design&t=m3tRZBQSOyuV1iYD-1)
 
+<img src="https://github.com/lionciao/OceansetHero/assets/127395623/5f15f179-174d-4896-9970-dc1df7d776bb" width="300" />
+<img src="https://github.com/lionciao/OceansetHero/assets/127395623/0cc94ba2-cd7d-466f-8e5c-7061dc24ef51" width="300" /> 
+<img src="https://github.com/lionciao/OceansetHero/assets/127395623/db302a31-a02f-456a-b338-9b3d68225f1e" width="300" />
+
 #  High-Level Project Summary
 The main goal is to connect the dataset of water quality and the information of distribution of the specific endangered species onto a easily-use user interface.
 To achieve this goal we need to accomplish the following subobjectives:
